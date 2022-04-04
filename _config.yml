@@ -19,7 +19,8 @@ navbar-links:
     - nam: "https://namjyo.github.io"
     - Learn markdown: "https://www.markdowntutorial.com/"
   Author's home: "https://deanattali.com"
-
+  
+url: "https://namjyo.github.io"
 # --- Logo --- #
 
 # Image to show in the navigation bar - works best with a square image
