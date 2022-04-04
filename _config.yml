@@ -6,17 +6,17 @@
 # --- Required options --- #
 
 # Name of website
-title: JH Memorise
+title: "JH Memorise"
 
 # Your name to show in the footer
-author: Nam Jyo
+author: "Nam Jyo"
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: "https://namjyo.github.io
+    - Beautiful Jekyll: "https://namjyo.github.io"
     - Learn markdown: "https://www.markdowntutorial.com/"
   Author's home: "https://deanattali.com"
 
